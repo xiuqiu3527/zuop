@@ -52,3 +52,6 @@
 
 19.jpg:
 ![Alt text](19.jpg "Title")
+
+Sprite-0004.jpg:
+![Alt text](Sprite-0004.jpg"Title")
